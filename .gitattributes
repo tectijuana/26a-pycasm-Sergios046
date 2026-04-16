@@ -1,0 +1,6 @@
+Makefile text eol=lf
+*.c text eol=lf
+asmfunc_host.c text eol=lf
+*.s text eol=lf
+*.py text eol=lf
+*.md text eol=lf
